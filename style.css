@@ -1,0 +1,114 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+#register-page {
+  position: absolute;
+  left: 20%;
+  top: -5%;
+  right: 0%;
+  border-color: black;
+}
+p {
+  font-size: 14px;
+}
+h1 {
+  color: white;
+  background-color: #4267b2;
+  font-size: 32px;
+  padding: 5px;
+}
+#top-nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  margin-top: -22px;
+  transform: translate(0%, -150%);
+  justify-content: right;
+  color: white;
+}
+
+h3 {
+  display: flex;
+  flex-wrap: wrap;
+  color: white;
+  background-color: #8b9cbd;
+  padding: 3px;
+  margin-top: -30px;
+}
+#registration {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#college {
+  background-color: #4267b2;
+  padding: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+#high-school {
+  padding: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+#first-line {
+  margin-top: -15px;
+  color: #4267b2;
+  margin-left: 72px;
+  margin-right: 72px;
+}
+#forms {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+}
+#name {
+  margin-left: 50px;
+}
+#cars {
+  margin-left: 50px;
+}
+#email {
+  margin-left: 40px;
+}
+#password {
+  margin-left: 31px;
+}
+form {
+  font-size: 14px;
+  padding: 5px;
+}
+#button {
+  text-align: center;
+}
+#footer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#footer-2 {
+  text-align: center;
+  margin-top: -5px;
+}
+#login-page {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+#button-2 {
+  position: absolute;
+  top: 11%;
+  left: 6%;
+}
+#email-2 {
+  margin-left: 40px;
+}
+#password-2 {
+  margin-left: 20px;
+}
